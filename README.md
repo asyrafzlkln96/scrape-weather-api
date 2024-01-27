@@ -1,2 +1,2 @@
-# scrape-weather-api
+# scrape-weather-script
 Scrape weather API using python
